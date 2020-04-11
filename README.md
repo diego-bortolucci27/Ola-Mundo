@@ -1,9 +1,9 @@
 # Olá Mundo !
- Primeiro repositório
+ **Primeiro repositório**
 
  Repositório criado através da video aula do curso em video
 
- www.youtube.com/cursoemvideo
+ *www.youtube.com/cursoemvideo*
  
 Essa linha eu adicionei direto  no  site.
 
